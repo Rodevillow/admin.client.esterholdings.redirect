@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://stage.esterholdings.website/admin/$1",
+      "permanent": true
+    }
+  ]
+}
